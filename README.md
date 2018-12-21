@@ -1,5 +1,5 @@
 MusicEditor  
-这是一个使用EditorWindow制作的音乐游戏曲谱编辑器,具体功能和使用说明如下：
+这是一个使用EditorWindow制作的音乐游戏曲谱编辑器，在菜单栏Windows/MusicEditor下打开，具体功能和使用说明如下：
   
 添加轨道：  
 导入音乐与新建轨道文件后，可以添加音轨道    
